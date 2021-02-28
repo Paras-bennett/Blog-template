@@ -1,0 +1,29 @@
+	.flex {
+		display: flex;
+	}
+	.items-center {
+		align-items: center;
+	}
+	.justify-between {
+		justify-content: space-between;
+	}
+	.flex-1 {
+		flex :1;
+
+	}
+	.justify-center {
+		justify-content: center;
+	}
+
+	.row {
+	  display: flex;
+	}
+
+	.white {
+	  background: white;
+	}
+	.box-shadow {
+	  -webkit-box-shadow: 0px 0px 1px 0px rgba(0,0,0,0.75);
+	  -moz-box-shadow: 0px 0px 1px 0px rgba(0,0,0,0.75);
+	  box-shadow: 0px 0px 1px 0px rgba(0,0,0,0.75);
+	}
